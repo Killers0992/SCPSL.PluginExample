@@ -1,0 +1,17 @@
+{
+  "Displayname": "BetterCoinflips",
+  "Description": "SCP:SL plugin that adds a Risk-Reward mechanic to the in-game coin. Whenever you flip a coin a 'random' effect will happen depending on the coinflips outcome.",
+  "Author": "Miki_hero",
+  "OwnerName": "Mikihero",
+  "RepositoryName": "BetterCoinflips",
+  "LoaderType": "exiled",
+  "Versions": {
+    "4.5.0": {
+      "BuildType": 0,
+      "Version": "4.5.0",
+      "SCPSLVersion": "13.4.2",
+      "FileUrl": "https://github.com/Mikihero/BetterCoinflips/releases/download/4.5.0/BetterCoinflips.dll",
+      "FileHash": "afed2c0a41b1dda9645b2333807f4fa6"
+    }
+  }
+}
